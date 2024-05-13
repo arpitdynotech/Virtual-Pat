@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "622641706573",
+    "project_id": "aidemo-b5744",
+    "storage_bucket": "aidemo-b5744.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622641706573:android:bf6e98b0ebf69fab9a0e04",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.AIGirlFriend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622641706573-at8nsn1kqpk5alh5b6hv8ch3nf8k1vc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUh-qKAAYBYuDcLsVC5jHNWHadCP-7ojc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622641706573-at8nsn1kqpk5alh5b6hv8ch3nf8k1vc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
